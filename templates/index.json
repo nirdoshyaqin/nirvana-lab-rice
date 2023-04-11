@@ -13,17 +13,17 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "冬期湛水、無農薬、不耕起栽培でプレミアムのお米",
+            "text": "冬期湛水、無農薬、不耕起栽培でプレミアムのお米を育てています。",
             "text_style": "body"
           }
         },
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop all",
+            "button_label_1": "お米を購入",
             "button_link_1": "shopify:\/\/collections\/all",
             "button_style_secondary_1": true,
-            "button_label_2": "",
+            "button_label_2": "私たちについて",
             "button_link_2": "",
             "button_style_secondary_2": false
           }
