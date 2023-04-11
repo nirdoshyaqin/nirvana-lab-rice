@@ -6,24 +6,26 @@
         "featured_image": {
           "type": "featured_image",
           "settings": {
-            "image_height": "adapt"
+            "image_height": "medium"
           }
         },
         "title": {
           "type": "title",
           "settings": {
             "blog_show_date": true,
-            "blog_show_author": false
+            "blog_show_author": true
           }
         },
         "share": {
           "type": "share",
           "settings": {
-            "share_label": "Share"
+            "share_label": "シェア"
           }
         },
         "content": {
-          "type": "content"
+          "type": "content",
+          "settings": {
+          }
         }
       },
       "block_order": [
@@ -31,7 +33,9 @@
         "title",
         "share",
         "content"
-      ]
+      ],
+      "settings": {
+      }
     }
   },
   "order": [
