@@ -6,14 +6,14 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Image banner",
+            "heading": "多年草化栽培のHIJIRI宇宙米",
             "heading_size": "h0"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text": "冬期湛水、無農薬、不耕起栽培でプレミアムのお米",
             "text_style": "body"
           }
         },
@@ -37,7 +37,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/lush-green-wheat-sheafs.jpg",
         "image_2": "shopify:\/\/shop_images\/IMG_3622.jpg",
-        "image_overlay_opacity": 20,
+        "image_overlay_opacity": 10,
         "image_height": "large",
         "desktop_content_position": "bottom-center",
         "show_text_box": false,
